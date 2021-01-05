@@ -1,0 +1,34 @@
+.footer-content{
+    width: 100%;
+    height: 400px;
+    background: #445544;
+}
+.footer-bottom{
+    width: 100%;
+    height: 20px;
+    color: dimgrey;
+    background: #111111;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer-content .content-about{
+    width: 30%;
+    height: 400px;
+}
+
+.footer-content .content-about h2{
+    font-family: sans-serif;
+    color: fuchsia;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
+}
+
+.footer-content .content-about h2{
+    font-style: normal;
+    color: ghostwhite;
+    text-align: center;
+
+}
+
